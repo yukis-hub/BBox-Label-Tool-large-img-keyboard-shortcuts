@@ -6,8 +6,8 @@ Forked from [puzzledqs/BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-
 You don't need to click Confirm button if using keyboard shortcuts.
 
 # General Keyboard shortcuts
-"→" = Go Next picture  
-"←" = Go Previous picture  
+"→" = Go Next image  
+"←" = Go Previous image  
 "left_Ctrl + Z" = Clear previous BBox
 
 # Other Keyboard shortcuts(it depends on class.txt)
