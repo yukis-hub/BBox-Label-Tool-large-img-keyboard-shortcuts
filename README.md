@@ -24,4 +24,3 @@ You don't need to click Confirm button if using keyboard shortcuts.
 
 # Others
 You can use UTF-8 in class.txt.
-
