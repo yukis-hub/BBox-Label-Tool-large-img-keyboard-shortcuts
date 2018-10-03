@@ -5,11 +5,13 @@ Forked from [puzzledqs/BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-
 # General Keyboard shortcuts
 "→" = Go Next image  
 "←" = Go Previous image  
-"left_Ctrl + Z" = Clear previous BBox
+"left_Ctrl + Z" = Clear previous BBox  
 "C" = Confirm
 
 # Other Keyboard shortcuts(it depends on class.txt)
-You don't need to click Confirm button if using keyboard shortcuts.    
+You don't need to click Confirm button if using keyboard shortcuts.  
+
+
 "0-9" = 0-9  
 "+" = +  
 "-" = -  
