@@ -1,2 +1,5 @@
 # BBox-Label-Tool-large-img-keyboard-shortcuts
-A fork of BBox-Label-Tool and BBox-Label-Tool-large-img with support of keyboard shortcuts. We can set labels more efficiently.
+
+Forked from [puzzledqs/BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool) and [BASFProject-2018spring/BBox-Label-Tool-large-img](https://github.com/BASFProject-2018spring/BBox-Label-Tool-large-img).
+
+
