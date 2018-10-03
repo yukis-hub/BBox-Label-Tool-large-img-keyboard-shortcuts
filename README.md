@@ -9,7 +9,9 @@ Forked from [puzzledqs/BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-
 "left_Ctrl + Z" = Clear previous BBox
 
 # Other Keyboard shortcuts(it depends on class.txt)
-"0~9" = 0~9  
+You don't need to click Confirm button if using keyboard shortcuts.
+
+"0-9" = 0-9  
 "+" = +  
 "-" = -  
 "*" = ±  
