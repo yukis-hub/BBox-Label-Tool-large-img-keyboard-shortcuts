@@ -13,6 +13,7 @@ You don't need to click Confirm button if using keyboard shortcuts.
 
 
 "0-9" = 0-9  
+"." = .  
 "+" = +  
 "-" = -  
 "*" = ±  
@@ -20,4 +21,7 @@ You don't need to click Confirm button if using keyboard shortcuts.
 "i + n" = in_nasi  
 "o + a" = out_ari  
 "o + n" = out_nasi  
+
+# Others
+You can use UTF-8 in class.txt.
 
