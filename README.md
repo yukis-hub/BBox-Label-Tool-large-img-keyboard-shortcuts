@@ -7,7 +7,7 @@ Forked from [puzzledqs/BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-
 1. You can use UTF-8 in class.txt
 2. Add keyboard shortcuts function
 3. Add a like Undo function.
-4. Sort image files in there file name.
+4. Sort image files in their file name.
 
 ### General Keyboard shortcuts
 |  Key  |  Output  |
