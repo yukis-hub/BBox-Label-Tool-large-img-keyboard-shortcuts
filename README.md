@@ -8,14 +8,15 @@ Forked from [puzzledqs/BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-
 2. Add keyboard shortcuts function
 3. Add a like Undo function.
 4. Sort image files in their file name.
+5. This is for ".jpg" file.
 
 ### General Keyboard shortcuts
 |  Key  |  Output  |
 | :----: | :----: |
 | → | Go Next image  |
 | ← | Go Previous image  |
-| Escape | Clear choosing BBox |
-| Left Control + z | Clear previous fixed BBox |
+| Escape | Clear a drawing BBox |
+| Left Control + z | Clear a previous existing BBox |
 | c | Confirm (Usually, you don't need this) |
 
 ### Other default Keyboard shortcuts(it depends on class.txt)
